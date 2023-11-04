@@ -64,11 +64,10 @@ p {
     width: 100%;
     display: flex;
     align-items: center;
-    visibility: hidden;
     z-index: -1;
     position: absolute;
-    top: -245px;
-    transition: all 1250ms ease-out;
+    top: -425px;
+    transition: all 1250ms;
 }
 
 #big-menu-inner-container {
